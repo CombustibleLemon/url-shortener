@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Shorterer.Controllers
+namespace Shortener.Controllers
 {
     public class HomeController : Controller
     {
